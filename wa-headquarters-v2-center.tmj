@@ -264,6 +264,12 @@
          "id":15,
          "name":"lobby",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":90,
@@ -399,7 +405,7 @@
                 {
                  "name":"startLayer",
                  "type":"bool",
-                 "value":true
+                 "value":false
                 }, 
                 {
                  "name":"startUrl",
