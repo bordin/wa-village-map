@@ -31759,32 +31759,6 @@
          "tilecount":340,
          "tileheight":32,
          "tilewidth":32
-        }, 
-        {
-         "columns":16,
-         "firstgid":144295,
-         "image":"tilesets\/Set_Icons.png",
-         "imageheight":960,
-         "imagewidth":512,
-         "margin":0,
-         "name":"Set_Icons",
-         "spacing":0,
-         "tilecount":480,
-         "tileheight":32,
-         "tilewidth":32
-        }, 
-        {
-         "columns":64,
-         "firstgid":144775,
-         "image":"tilesets\/Set_Icons3.png",
-         "imageheight":2048,
-         "imagewidth":2048,
-         "margin":0,
-         "name":"Set_Icons3",
-         "spacing":0,
-         "tilecount":4096,
-         "tileheight":32,
-         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
